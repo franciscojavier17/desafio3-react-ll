@@ -1,0 +1,15 @@
+body{
+  background-image: url("../src/assets/img/fondopokemon.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+h1{
+  color: white;
+  margin-bottom: 10%;
+}
+
+.btn {
+  background-color: rgb(53, 56, 59);
+  color: white;
+}
